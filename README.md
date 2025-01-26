@@ -5,7 +5,7 @@ A simple, interactive calculator built using HTML, CSS, and JavaScript. This app
 ## Features
 
 - Basic operations: Addition, Subtraction, Multiplication, Division
-- Clear button (C) to reset the current calculation
+- Clear button (AC) to reset the current calculation
 - Responsive design that adapts to various screen sizes
 - Simple and intuitive user interface
 
